@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>http://localhost/NYCTaxiData/api</_PublishTargetUrl>
+    <History>False|2022-05-02T18:22:08.8168303Z;False|2022-05-01T11:53:24.9868591-04:00;False|2022-05-01T11:53:13.8169047-04:00;True|2022-04-29T16:14:20.9461142-04:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>04/29/2022 17:06:18</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>04/29/2022 17:06:18</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>03/29/2022 15:11:30</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>11/15/2019 22:00:22</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>11/15/2019 22:00:40</publishTime>
+    </File>
+    <File Include="bin/Glimpse.AspNet.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/Glimpse.Core.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Configuration.ConfigurationBuilders.Base.dll">
+      <publishTime>02/20/2020 19:52:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll">
+      <publishTime>02/20/2020 19:53:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/Npgsql.dll">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/Npgsql.pdb">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/NYCTaxiData.dll">
+      <publishTime>04/29/2022 17:06:09</publishTime>
+    </File>
+    <File Include="bin/NYCTaxiData.pdb">
+      <publishTime>04/29/2022 17:06:09</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.dll">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.Extensions.ExecutionContextScoping.dll">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.Integration.WebApi.dll">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>03/29/2022 15:11:33</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>03/29/2022 15:11:34</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>03/29/2022 15:11:34</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/29/2022 15:11:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/29/2022 15:11:32</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/29/2022 15:11:28</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/29/2022 17:06:13</publishTime>
+    </File>
+    <File Include="Global.asax.cs">
+      <publishTime>04/27/2022 18:22:23</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/29/2022 15:52:50</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/29/2022 17:06:11</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/29/2022 16:16:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

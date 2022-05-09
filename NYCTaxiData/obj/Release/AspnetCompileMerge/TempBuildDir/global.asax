@@ -1,0 +1,1 @@
+﻿<%@ application inherits="__ASPNET_INHERITS" language="C#" %>
